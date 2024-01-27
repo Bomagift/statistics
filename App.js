@@ -14,8 +14,8 @@ class MathsOperations {
   }
   
   // Accessing class property
-  console.log(MathOperations.PI); // Output: 3.14159
+  console.log(MathsOperations.PI); // Output: 3.14159
   
   // Using class method
-  console.log(MathOperations.square(5)); // Output: 25
-  console.log(MathOperations.cube(3));   // Output: 27
+  console.log(MathsOperations.square(5)); // Output: 25
+  console.log(MathsOperations.cube(3));   // Output: 27
